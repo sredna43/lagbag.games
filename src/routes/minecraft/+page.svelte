@@ -15,6 +15,14 @@
 >
 <p>Don't worry, the links should open a new tab for you</p>
 
+<h5>Installation</h5>
+<ol>
+	<li>Install the modpack (All The Mods 8 - v1.0.27)</li>
+	<li>Download the extra mods we play with</li>
+	<li>Unzip the extra mods</li>
+	<li>Copy all of the extra mods into the mods folder of your modpack install</li>
+</ol>
+
 <style>
 	p {
 		margin-top: 1rem;
