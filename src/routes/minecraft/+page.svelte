@@ -21,10 +21,19 @@
 	<li>Download the extra mods we play with</li>
 	<li>Unzip the extra mods</li>
 	<li>Copy all of the extra mods into the mods folder of your modpack install</li>
+	<h6>How to open the mods folder of your modpack</h6>
+	<img src="/src/img/open_folder.png" alt="click the three dots next to the play button" />
+	<li>Join our Discord (ask for an invite link, this step is optional)</li>
+	<li>Send me your MC username so I can whitelist you</li>
+	<li>Join the server (modded1.lagbag.games)</li>
 </ol>
 
 <style>
 	p {
 		margin-top: 1rem;
+	}
+
+	img {
+		max-width: 25%;
 	}
 </style>
